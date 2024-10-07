@@ -246,7 +246,7 @@ void modifybook()
  void modifystudent()
 {
 	char n[6];
-	int found=0;//seach book of given data
+	int found=0;//search book of given data
 	system("cls");
 	cout<<"\n\nMODIFY STUDENT RECORD...";
 	cout<<"\n\nEnter the Admission no.:  ";
