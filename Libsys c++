@@ -13,9 +13,9 @@ using namespace std;
 
 class book
 {
-	char bno[6];//book number.
-	char bname[50];//bookname
-	char aname[50];//authorname
+	char bno[7];//book number.
+	char bname[51];//bookname
+	char aname[51];//authorname
 	public:
 	void createbook()
 	{
